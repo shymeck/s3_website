@@ -1,7 +1,5 @@
 # My test website
 
----
-
 ### Purpose
 
 To learn something new.
